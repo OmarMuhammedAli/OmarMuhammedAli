@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋🏽, I'm Omar!</h1>
 <h3 align="center">Software Developer || MLH Fellow || Electrical Engineering Undergraduate Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarmuhammedali&label=Profile%20views&color=0e75b6&style=flat" alt="omarmuhammedali" /> </p>
-
 
 - 🔭 I’m currently working on [Would-You-Rather](https://github.com/OmarMuhammedAli/Would-You-Rather)
 
