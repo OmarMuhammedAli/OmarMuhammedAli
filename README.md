@@ -19,7 +19,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ElGWdx62Dlg_I0kB_QDtIP6gq4ZUGS5R/view](https://drive.google.com/file/d/1ElGWdx62Dlg_I0kB_QDtIP6gq4ZUGS5R/view)
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=omarmuhammedali&show_icons=true&locale=en&theme=radical" alt="omarmuhammedali" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarmuhammedali&show_icons=true&locale=en&theme=radical" alt="omarmuhammedali" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarmuhammedali&show_icons=true&locale=en&layout=compact&theme=radical" alt="omarmuhammedali" /></p>
 
