@@ -10,6 +10,8 @@
 
 - 👯 I’m looking to collaborate on [Django](https://github.com/django/django)
 
+- 💻 I mainly code in **Python and JavaScript**
+
 - 💬 Ask me about **React, Redux || Backend Web Dev**
 
 - 📫 How to reach me **omarmuhammed1998.om@gmail.com**
