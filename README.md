@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏽, I'm Omar!</h1>
-<h3 align="center">Software Developer || MLH Fellow || Electrical Engineering Undergrad Student</h3>
+<h3 align="center">Software Developer || MLH Fellow || Electrical Engineering Undergraduate Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarmuhammedali&label=Profile%20views&color=0e75b6&style=flat" alt="omarmuhammedali" /> </p>
 
@@ -16,8 +16,7 @@
 
 - 📫 How to reach me **omarmuhammed1998.om@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ElGWdx62Dlg_I0kB_QDtIP6gq4ZUGS5R/view](https://drive.google.com/file/d/1ElGWdx62Dlg_I0kB_QDtIP6gq4ZUGS5R/view)
-
+- 📄 Know about my experiences through my [Résumé](https://drive.google.com/file/d/1ElGWdx62Dlg_I0kB_QDtIP6gq4ZUGS5R/view)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarmuhammedali&show_icons=true&locale=en&theme=radical" alt="omarmuhammedali" /></p>
 
