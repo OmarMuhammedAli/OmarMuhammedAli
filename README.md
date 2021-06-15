@@ -12,6 +12,8 @@
 
 - 💬 Ask me about **React, Redux || Backend Web Dev**
 
+- 😄 Pronouns: **he/him** 
+
 - 📫 How to reach me **omarmuhammed1998.om@gmail.com**
 
 - 📄 Know about my experiences through my [Résumé](https://drive.google.com/file/d/1ElGWdx62Dlg_I0kB_QDtIP6gq4ZUGS5R/view)
