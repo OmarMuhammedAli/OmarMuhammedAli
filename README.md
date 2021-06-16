@@ -22,7 +22,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarmuhammedali&show_icons=true&locale=en&layout=compact&theme=radical" alt="omarmuhammedali" /></p>
 
-[![Omar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OmarMuhammedAli&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Omar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OmarMuhammedAli&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarmuhammedali&theme=radical" alt="omarmuhammedali" /></p>
