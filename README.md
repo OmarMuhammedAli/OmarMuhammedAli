@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋🏽, I'm Omar!</h1>
 <h3 align="center">Software Developer || MLH Fellow || Electrical Engineering Undergraduate Student</h3>
 
+
+#### 👨🏻‍💻  About Me
+
 - 😄 Pronouns: **he/him** 
 
 - 🔭 I’m currently working on [Would-You-Rather](https://github.com/OmarMuhammedAli/Would-You-Rather)
