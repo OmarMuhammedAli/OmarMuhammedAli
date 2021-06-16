@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋🏽, I'm Omar!</h1>
 <h3 align="center">Software Developer || MLH Fellow || Electrical Engineering Undergraduate Student</h3>
 
+- 😄 Pronouns: **he/him** 
 
 - 🔭 I’m currently working on [Would-You-Rather](https://github.com/OmarMuhammedAli/Would-You-Rather)
 
@@ -11,8 +12,6 @@
 - 💻 I mainly code in **Python and JavaScript**
 
 - 💬 Ask me about **React, Redux || Backend Web Dev**
-
-- 😄 Pronouns: **he/him** 
 
 - 📫 How to reach me **omarmuhammed1998.om@gmail.com**
 
