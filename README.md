@@ -6,7 +6,7 @@
 
 - 😄 Pronouns: **he/him** 
 
-- 🔭 I’m currently working on [Would-You-Rather](https://github.com/OmarMuhammedAli/Would-You-Rather)
+- 🔭 I’m currently working on [Mapillary](https://github.com/mapillary)
 
 - 🌱 I’m currently learning **Full-stack Web Development || Software Architecture || Data Science**
 
