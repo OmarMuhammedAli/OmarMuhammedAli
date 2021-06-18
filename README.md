@@ -20,14 +20,20 @@
 
 - 📄 Know about my experiences through my [Résumé](https://drive.google.com/file/d/1ElGWdx62Dlg_I0kB_QDtIP6gq4ZUGS5R/view)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarmuhammedali&show_icons=true&locale=en&theme=radical" alt="omarmuhammedali" /></p>
+[![Omar's github activity graph](https://activity-graph.herokuapp.com/graph?username=omarmuhammedali&theme=xcode)](https://git.io/omarmuhammedali)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarmuhammedali&show_icons=true&locale=en&layout=compact&theme=radical" alt="omarmuhammedali" /></p>
+
+<p align="center">
+  &nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api?username=omarmuhammedali&show_icons=true&locale=en&theme=radical" alt="omarmuhammedali" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=omarmuhammedali&theme=radical" alt="omarmuhammedali" />
+</p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarmuhammedali&show_icons=true&locale=en&layout=compact&theme=radical" alt="omarmuhammedali" /></p>
 
 <!-- [![Omar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OmarMuhammedAli&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarmuhammedali&theme=radical" alt="omarmuhammedali" /></p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
