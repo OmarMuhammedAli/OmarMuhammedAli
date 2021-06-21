@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏽, I'm Omar!</h1>
+<h1 align="center">Hi 👋🏽, I'm Omar<img src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" width="30"/></h1>
 <h3 align="center">Software Developer || MLH Fellow || Electrical Engineering Undergraduate Student</h3>
 
 
