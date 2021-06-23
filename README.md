@@ -4,8 +4,6 @@
 
 #### 👨🏻‍💻  About Me
 
-- 😄 Pronouns: **he/him** 
-
 - 🔭 I’m currently working on [Mapillary](https://github.com/mapillary)
 
 - 🌱 I’m currently learning **Full-stack Web Development || Software Architecture || Data Science**
@@ -15,6 +13,8 @@
 - 💻 I mainly code in **Python and JavaScript**
 
 - 💬 Ask me about **React, Redux || Backend Web Dev**
+ 
+- 😄 Pronouns: **he/him**  
 
 - 📫 How to reach me **omarmuhammed1998.om@gmail.com**
 
