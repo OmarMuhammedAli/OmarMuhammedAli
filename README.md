@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences through my [Resume](https://drive.google.com/file/d/1ElGWdx62Dlg_I0kB_QDtIP6gq4ZUGS5R/view)
 
-[![Omar's github activity graph](https://activity-graph.herokuapp.com/graph?username=omarmuhammedali&theme=xcode)](https://git.io/omarmuhammedali)
+<!-- [![Omar's github activity graph](https://activity-graph.herokuapp.com/graph?username=omarmuhammedali&theme=xcode)](https://git.io/omarmuhammedali) -->
 
 
 <p align="center">
