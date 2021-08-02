@@ -4,7 +4,7 @@
 
 #### 👨🏻‍💻  About Me
 
-- 🔭 I’m currently working on [Mapillary](https://github.com/mapillary)
+- 🔭 I’m currently working on [Mapillary](https://github.com/facebookincubator/mapillary-python-sdk)
 <!-- -  and [HouseJam](https://github.com/OmarMuhammedAli/HouseJam) -->
 
 - 🌱 I’m currently learning **Full-stack Web Development || Software Architecture || Data Science**
