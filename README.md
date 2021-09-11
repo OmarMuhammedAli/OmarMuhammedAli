@@ -19,9 +19,8 @@
 
 - 📫 How to reach me **omarmuhammed1998.om@gmail.com**
 
-- 📄 Know about my experiences through my [Resume](https://drive.google.com/file/d/1ElGWdx62Dlg_I0kB_QDtIP6gq4ZUGS5R/view)
 
-<!-- [![Omar's github activity graph](https://activity-graph.herokuapp.com/graph?username=omarmuhammedali&theme=xcode)](https://git.io/omarmuhammedali) -->
+[![Omar's github activity graph](https://activity-graph.herokuapp.com/graph?username=omarmuhammedali&theme=xcode)](https://git.io/omarmuhammedali)
 
 <p align="center">
   &nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api?username=omarmuhammedali&show_icons=true&locale=en&theme=radical" alt="omarmuhammedali" />
