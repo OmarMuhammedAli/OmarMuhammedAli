@@ -4,16 +4,16 @@
 
 #### 👨🏻‍💻  About Me
 
-- 🔭 I’m currently working on [Mapillary](https://github.com/facebookincubator/mapillary-python-sdk)
+- 🔭 I’m currently working as a backend engineer at [robusta studio](https://github.com/RobustaStudio), Maintaining [Mapillary](https://github.com/facebookincubator/mapillary-python-sdk), and finishing my senior year of Electrical Engineereing at Ain shams Uni
 <!-- -  and [HouseJam](https://github.com/OmarMuhammedAli/HouseJam) -->
 
-- 🌱 I’m currently learning **Full-stack Web Development || Software Architecture || Data Science**
+- 🌱 I’m currently learning **Backend engineering || Software Architecture || Data Analysis**
 
 - 👯 I’m looking forward to collaborate on [Django](https://github.com/django/django)
 
 - 💻 I mainly code in **Python and JavaScript**
 
-- 💬 Ask me about **React, Redux || Backend Web Dev**
+- 💬 Ask me about **Backend Web Dev**
  
 - 😄 Pronouns: **_he/him_**  
 
