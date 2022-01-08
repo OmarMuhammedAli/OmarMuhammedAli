@@ -9,11 +9,7 @@
 
 - 🌱 I’m currently learning **Backend engineering || Software Architecture || Data Analysis**
 
-- 👯 I’m looking forward to collaborate on [Django](https://github.com/django/django)
-
 - 💻 I mainly code in **Python and JavaScript**
-
-- 💬 Ask me about **Backend Web Dev**
  
 - 😄 Pronouns: **_he/him_**  
 
