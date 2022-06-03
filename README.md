@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Backend engineering || Software Architecture**
 
-- 💻 I mainly code in **Python and JavaScript**
+- 💻 I mainly code in **Python, PHP, and JavaScript**
  
 - 😄 Pronouns: **_he/him_**  
 
