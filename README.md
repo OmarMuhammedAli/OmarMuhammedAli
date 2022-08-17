@@ -8,8 +8,6 @@
 - 🔭 I’m currently working as a backend engineer at [robusta studio](https://github.com/RobustaStudio), Maintaining [Mapillary](https://github.com/facebookincubator/mapillary-python-sdk), and finishing my senior year of Electrical Engineereing at Ain shams Uni
 <!-- -  and [HouseJam](https://github.com/OmarMuhammedAli/HouseJam) -->
 
-- 🌱 I’m currently learning **Backend Engineering || Database and System Design**
-
 - 💻 I mainly code in **Python, PHP, and JavaScript**
  
 - 😄 Pronouns: **_he/him_**  
