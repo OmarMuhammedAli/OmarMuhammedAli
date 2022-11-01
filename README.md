@@ -5,10 +5,8 @@
 
 #### 👨🏻‍💻  About Me
 
-- 🔭 I’m currently working as a backend engineer at [robusta studio](https://github.com/RobustaStudio), Maintaining [Mapillary](https://github.com/facebookincubator/mapillary-python-sdk), and finishing my senior year of Electrical Engineereing at Ain shams Uni
+- 🔭 I’m currently working as a backend engineer
 <!-- -  and [HouseJam](https://github.com/OmarMuhammedAli/HouseJam) -->
-
-- 💻 I mainly code in **Python and Ruby**
  
 - 😄 Pronouns: **_he/him_**  
 
