@@ -6,11 +6,8 @@
 #### 👨🏻‍💻  About Me
 
 - 🔭 I’m currently working as a backend engineer
-<!-- -  and [HouseJam](https://github.com/OmarMuhammedAli/HouseJam) -->
  
 - 😄 Pronouns: **_he/him_**  
-
-- 📫 How to reach me **omarmuhammed1998.om@gmail.com**
 
 
 [![Omar's github activity graph](https://activity-graph.herokuapp.com/graph?username=omarmuhammedali&theme=xcode)](https://git.io/omarmuhammedali)
