@@ -10,12 +10,12 @@
 - 😄 Pronouns: **_he/him_**  
 
 
-[![Omar's github activity graph](https://activity-graph.herokuapp.com/graph?username=omarmuhammedali&theme=xcode)](https://git.io/omarmuhammedali)
+<!-- [![Omar's github activity graph](https://activity-graph.herokuapp.com/graph?username=omarmuhammedali&theme=xcode)](https://git.io/omarmuhammedali)
 
 <p align="center">
   &nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api?username=omarmuhammedali&show_icons=true&locale=en&theme=radical" alt="omarmuhammedali" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarmuhammedali&show_icons=true&locale=en&layout=compact&theme=radical" alt="omarmuhammedali" />
-</p>
+</p> -->
 <!-- <p align="center">
   &nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api?username=omarmuhammedali&show_icons=true&locale=en&theme=radical" alt="omarmuhammedali" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=omarmuhammedali&theme=radical" alt="omarmuhammedali" />
