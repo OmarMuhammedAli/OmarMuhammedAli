@@ -5,7 +5,7 @@
 
 #### 👨🏻‍💻  About Me
 
-- 🔭 I’m currently working as a Retool developer @ [stackdrop.co](https://www.stackdrop.co/)and a backend engineer
+- 🔭 I’m currently working as a Retool developer @ [stackdrop.co](https://www.stackdrop.co/) and a backend engineer
  
 - 😄 Pronouns: **_he/him_**  
 
